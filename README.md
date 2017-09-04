@@ -1,5 +1,7 @@
-#Code for Guessing Number of files in Current directory
+# Code For Guessing number of files in current directory
+Date of creation of the file:
+-n* 
+Mon Sep  4 16:08:58 IST 2017
 
-The make file was run at **Mon Sep  4 15:29:52 IST 2017**
-
-With *29* Lines of code.
+Number of lines of the guessinggame.sh script:
+* 29
