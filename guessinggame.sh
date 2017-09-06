@@ -12,8 +12,12 @@ if [[$n2 -eq $n1 ]]
 then
 break;
 else
-echo
+#echo "Good"
 if [[ $n2 -gt $n1 ]]
+then
+echo -n "Sorry, your guess is too high. New guess:"
+fi
+if [[ $n2 -lt $n1 ]]
 then
 echo -n "Sorry, your guess is too low. New guess:"
 fi
